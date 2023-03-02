@@ -1,4 +1,6 @@
-# SchoolMember
+# SchoolMembers
+
+Quite common task for Python students.
 
 Write a program that defines a "SchoolMember" class to represent individuals in a school. 
 "Teacher" and "Student" are subclasses of "SchoolMember" with similar interfaces, each having a public show() method. 
