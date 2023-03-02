@@ -1,4 +1,3 @@
-
 """
     By defining the SchoolMember, Teacher, and Student classes in this way,
     we can create instances of each class and access their attributes and methods.
